@@ -8,7 +8,8 @@ using Microsoft.Win32;
 namespace StringTutorial
 {
     internal class Program
-    {
+    {   
+        // Minor change for sake of commit.
         static void Main(string[] args)
         {
             Console.WriteLine("Enter a string to encrypt:");
